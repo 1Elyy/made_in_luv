@@ -19,5 +19,5 @@ Last updated: June 2026
 - Users can request data deletion by contacting us via Discord.
 
 ## Contact
-Bot Owner's Discord: 1.ely
-Discord server: https://discord.gg/luvly
+- Discord: 1.ely
+- Owner Server: https://discord.gg/luvly
