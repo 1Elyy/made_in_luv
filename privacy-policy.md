@@ -3,20 +3,21 @@
 Last updated: June 2026
 
 ## What We Collect
-- Server (guild) IDs and channel IDs to know where to post images.
-- We do NOT collect usernames, messages, personal information, 
-  or any user data.
+- Discord Guild IDs and Channel IDs
+- Bot configuration settings (welcome messages, sticky messages, auto-react settings)
 
-## How We Use It
-- Guild and channel IDs are used only to deliver the bot's 
-  posting functionality.
-- No data is sold, shared, or used for advertising.
-- No data is used for machine learning or AI training.
+## What We Do NOT Collect
+- Message content (only read in real-time for sticky/auto-react features)
+- Personal user information, DMs, or private data
+
+## Data Storage
+Configuration data is stored on a private VPS secured with SSH key authentication 
+and firewall rules. Data is retained only while the bot is active in your server.
 
 ## Data Deletion
-- When the bot is removed from a server, all related data 
-  is automatically deleted.
-- Users can request data deletion by contacting us via Discord.
+When the bot leaves a server, all associated data is permanently deleted.
+Users can request manual deletion by joining: https://discord.gg/luvly
 
 ## Contact
 Discord: 1.ely
+Support Server: https://discord.gg/luvly
