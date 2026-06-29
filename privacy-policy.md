@@ -46,6 +46,6 @@ If you would like your server's data removed sooner, you may contact us through 
 
 ## Contact
 
-Discord: **l.ely**
+Discord: **1.ely**
 
-Support Server: https://discord.gg/1uv1y
+Support Server: https://discord.gg/luvly
